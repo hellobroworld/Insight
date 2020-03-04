@@ -1,7 +1,7 @@
 # Insight
 A new way of communication for your company
 
-Code on demand.
+Swift Code for IOS-Applications on demand.
 
 Preview:
 
